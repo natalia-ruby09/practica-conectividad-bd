@@ -46,7 +46,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST" && !empty($_POST["sql"])) {
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Consola SQL - bd_universidad</title>
+    <title>Consola SQL - bd_practica</title>
     <style>
         body { font-family: Arial, sans-serif; background:#f4f4f4; padding:20px; }
         textarea { width: 100%; height: 120px; font-family: monospace; font-size: 14px; padding:8px; }
