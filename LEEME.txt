@@ -1,0 +1,26 @@
+PRÁCTICA - CONECTIVIDAD
+INF-272 Base de Datos
+
+Nombre: [Natalia Ruby Rivera Zurit]
+Fecha: 24/07/2026
+
+DESCRIPCIÓN:
+Interfaz de consultas SQL tipo Oracle SQL Developer, desarrollada en PHP
+con conectividad MySQLi (orientada a objetos) hacia una base de datos MySQL.
+
+ARCHIVOS INCLUIDOS:
+- script_bd_practica.sql : Script DDL y DML de la base de datos (bd_practica)
+- conexion.php : Archivo de conexión a la base de datos vía MySQLi
+- index.php : Interfaz web con área de consultas y área de resultados
+
+INSTRUCCIONES PARA EJECUTAR:
+1. Instalar XAMPP y activar Apache + MySQL
+2. Importar el script script_bd_universidad.sql en phpMyAdmin
+   (esto crea la base "bd_universidad" con sus tablas y datos)
+3. Copiar conexion.php e index.php en la carpeta:
+   C:\xampp\htdocs\bd_practica\
+4. Abrir en el navegador: http://localhost/bd_practica/index.php
+5. Escribir cualquier sentencia SQL en el área de consultas y hacer clic en RUN
+
+REPOSITORIO GITHUB:
+https://github.com/natalia-ruby09/practica-conectividad-bd
