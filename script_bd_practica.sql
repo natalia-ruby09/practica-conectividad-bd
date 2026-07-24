@@ -1,6 +1,6 @@
 -- CREAR Y USAR LA BASE DE DATOS
-CREATE DATABASE IF NOT EXISTS bd_universidad;
-USE bd_universidad;
+CREATE DATABASE IF NOT EXISTS bd_practica;
+USE bd_practica;
 
 -- TABLAS
 CREATE TABLE docente (
